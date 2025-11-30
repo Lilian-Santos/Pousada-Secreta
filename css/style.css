@@ -151,6 +151,7 @@ a {
   flex-direction: column;
   justify-content: center;
   gap: 10px;
+  width: 80%;
 }
 
 .imagem-item {
@@ -174,7 +175,7 @@ a {
   color: white;
 }
 
-.contatos, 
+.contatos,
 .endereco,
 .telefone,
 .reserva {
